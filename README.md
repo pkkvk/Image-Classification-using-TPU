@@ -12,5 +12,5 @@ These TFRecord files should be stored in Google Storage bucket for TPU usage. Yo
 Image classificatio with TFRecord files notebook can be used to access the data stored in TFRecord files usinf tf.data.Dataset and train the model in TPU. It also supports CPU and GPU. You can change the keras model definition , but make sure the input size is correct.
 
 These notebooks are available in the Kaggle: 
-https://www.kaggle.com/karthikeyanvijayan/create-tfrecord-files-for-image-classification
+https://www.kaggle.com/karthikeyanvijayan/create-tfrecord-files-for-image-classification,
 https://www.kaggle.com/karthikeyanvijayan/image-classification-using-tfrecord
